@@ -29,7 +29,7 @@ Users can add, edit, delete and mark todos as completed. All todos are saved in 
 
 ## 🌐 Connect With Me
 
-📘 Facebook Page: [Mohit's Dev Projects](https://www.facebook.com/share/192uYwzvzd/)  
-🔗 LinkedIn: [Mohit on LinkedIn](https://www.linkedin.com/in/mohit-d-a83472367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+📘 Facebook Page: [Facebook](https://www.facebook.com/share/192uYwzvzd/)  
+🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohit-d-a83472367?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 > I regularly post screenshots and short reels of my projects on these platforms. Follow to stay updated! 📸🎬
